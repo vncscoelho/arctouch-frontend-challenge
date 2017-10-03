@@ -1,2 +1,2 @@
-# arctouch-frontend-challenge
-ArcTouch FrontEnd Challenge
+# ArcTouch Front-end Challenge
+Just download and run
